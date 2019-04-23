@@ -4,7 +4,7 @@ If the file is missing one of the opening or closing forms of a tag, then this H
 * the explanation of this project (from teacher):
 * https://docs.google.com/document/d/e/2PACX-1vTu3iHoNsnpsqj_mvZGXJpaWtRestx8VBPRlTWgAZK733V7ue8Qc0OCWKQytPHu5QVBPWHSEcTar48l/pub
 
-# The makeup of this repo
+#  this repo
 ## structure.py
 * the definiation of the data structure and the methods of this data structure.
 ## validateHTMLFiles.py
